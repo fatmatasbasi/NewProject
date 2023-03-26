@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#ECE7E7"
     tools:context=".MainActivity">
 
 
@@ -59,7 +60,7 @@
                 android:textColor="@color/white"
                 android:layout_margin="12dp"
                 android:id="@+id/buttonc"
-                android:backgroundTint="#673AB7"
+                android:backgroundTint="#F44336"
                 android:text="C" />
             <com.google.android.material.button.MaterialButton
                 android:layout_width="72dp"
